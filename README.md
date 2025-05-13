@@ -1,9 +1,7 @@
 # Workshop
  ### AIM: To design a Verilog module that converts a 4-bit Gray code input into its corresponding 4-bit Binary code output. 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
-
+### SOFTWARE REQUIRED:   Quartus prime 
 ### Procedure 
 Assign the MSB of Binary: binary[3] = gray[3] (The MSB of Binary is the same as the MSB of Gray).
 
